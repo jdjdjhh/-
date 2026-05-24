@@ -1,0 +1,6 @@
+{
+  "name": "PIL Reader",
+  "description": "An Android application that reads and executes custom .pil files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
